@@ -21,6 +21,6 @@
 ## Как запустить 
 
 ```bash 
-githttps://github.com/Gulevskaya/Gulevskaya
+githttps://github.com/Elizabethegg/Gulevskaya
 cd Random Task Generator
 python main.py
